@@ -24,6 +24,6 @@ This project focuses on analyzing the performance of sorting algorithms, namely 
 2.cd algorithm-performance-analysis
 3. pip install matplotlib numpy
 
-#AUTHOR
+# AUTHOR
 VICTOR MUHORO - victormuhoro7@gmail.com
 This project is licensed under mit lisence
