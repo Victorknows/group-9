@@ -26,4 +26,4 @@ This project focuses on analyzing the performance of sorting algorithms, namely 
 
 # AUTHOR
 VICTOR MUHORO - victormuhoro7@gmail.com
-This project is licensed under mit lisence
+This project is licensed under the MIT License - see the LICENSE file for details.
